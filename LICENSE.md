@@ -15,3 +15,6 @@ Under New BSD License??
 http://jquery.com/
 
 Under MIT License
+
+## the rest
+
