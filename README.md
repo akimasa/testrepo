@@ -10,7 +10,7 @@
 8. 同様にログインする（先ほどとは異なるメールアドレスを使うことを推奨）
 9. マウスを動かす
 10. 出てきたメッセージに「はい」と答える
-11. 違うタブに戻り、出てきたメッセージに「はい」と答える
+11. 違うタブに戻り、出てきたメッセージに10秒以内に「はい」と答える
 12. 二つのタブ間での安全なチャットを楽しむ
 
 Usage
@@ -20,10 +20,10 @@ Usage
 3. Enter some email address and password.
 4. Click login
 5. *Move mouse* randomly to collect entropy. 
-6. Wait *5 seconds* so session key will be created.
+6. Wait `5 seconds` so session key will be created.
 7. Open http://127.0.0.1:3000/room/foo in another tab.
 8. Login(with another email address recommended)
 9. Move mouse
-10. Say yes to dialog messege.
-11. Back to previous tab and say yes to dialog messege.
+10. Say yes to dialog message.
+11. Back to previous tab and say yes to dialog message with in 10 seconds.
 12. Enjoy secure chat between two tabs.
